@@ -38,6 +38,9 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 2. ✔️ (CSS)
 3. ✔️ (JS)
 
+## ⚙ Feramentas
+- [ScrollReveal](https://scrollrevealjs.org)
+- [Boxicons](https://boxicons.com)
 
 ## 🔖Layout
 Para visualizar o layout do projeto crie ou acesse sua conta no [dribbble](dribbble.com) e [desse link](https://dribbble.com/shots/7597877-New-Year-is-coming) para acessá-lo.
