@@ -5,6 +5,7 @@
 <p align="center">
     <a href="#book-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+   <a href="#ferramentas">Ferramentas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#cloud-deploy">Deploy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#memo-licença">Licença</a>
@@ -38,7 +39,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 2. ✔️ (CSS)
 3. ✔️ (JS)
 
-## ⚙ Feramentas
+## ⚙ferramentas
 - [ScrollReveal](https://scrollrevealjs.org)
 - [Boxicons](https://boxicons.com)
 
