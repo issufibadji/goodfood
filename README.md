@@ -43,7 +43,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [Boxicons](https://boxicons.com)
 
 ## 🔖Layout
-Para visualizar o layout do projeto crie ou acesse sua conta no [dribbble](dribbble.com) e [desse link](https://dribbble.com/shots/7597877-New-Year-is-coming) para acessá-lo.
+Para visualizar o layout do projeto crie ou acesse sua conta no [bedimcode](bedimcode.com) e [desse link](https://www.buymeacoffee.com/bedimcode/e/11212) para acessá-lo.
 
 ## :memo: Licença
 Este projeto esta sobe a licença MIT. Consulte a [LICENÇA](https://github.com/issufibadji/new-years/blob/master/LINCENSE) para obter mais informações.
