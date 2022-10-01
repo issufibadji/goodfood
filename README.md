@@ -22,7 +22,7 @@
    <img alt="GitHub" src="https://img.shields.io/github/license/issufibadji/goodfood?style=flat-square">
 </p>
 
-![goodfood](https://github.com/issufibadji/goodfood/blob/master/goodfood.png)
+![goodfood](https://github.com/issufibadji/goodfood/blob/master/goodfood1.png)
 
 ## :book: Sobre
 O **goodfood**
